@@ -1,6 +1,7 @@
 # 프론트엔드 멘토(Intro component with sign-up form)
 
 [프론트엔드 멘토](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)
+![desktop-design](https://github.com/CNU-Likelion/frontend-4week-homework/assets/67012995/3b0a81a9-fc89-4693-99f9-2811ffc19ea3)
 
 ## 💻 진행 방식
 
